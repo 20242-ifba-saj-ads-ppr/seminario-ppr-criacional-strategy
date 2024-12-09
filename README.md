@@ -1,6 +1,6 @@
-# seminario-1
+# Nome do padrão
 
-## introdução 
+## Intenção 
 
 - item
 - item
@@ -9,6 +9,8 @@
 1. valor
 2. valor
 3. valor
+
+## Motivação
 
 ```java
 public class Pessoa{
@@ -45,6 +47,8 @@ classDiagram
     }
 
 ```
+
+## Estrutura
 
 [Mermaid Class Diagram.html](https://mermaid.js.org/syntax/classDiagram.html)
 
