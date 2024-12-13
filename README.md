@@ -1,5 +1,3 @@
-
-
 # Abstract Factory
 
 ## Intenção
@@ -1620,6 +1618,16 @@ public class Inimigo : MonoBehaviour
 
 
 #### Diagrama UML:
+
+## Motivação
+
+```java
+public class Pessoa{
+    private String nome;
+}
+```
+
+
 ```mermaid
 ---
 title: Multiton Tax Calculation
@@ -1671,6 +1679,7 @@ classDiagram
 
 ```
 #### Diagrama de fluxo 
+
 
 ```mermaid
 sequenceDiagram
@@ -1821,4 +1830,3 @@ Por outro lado, o padrão **Multiton** amplia o conceito do Singleton, permitind
 - GAMMA, Erich. et al. Padrões de projetos: Soluções reutilizáveis de software orientados a objetos Bookman editora, 2009.
 
 - K19. Design Patterns em Java. 2012
-
